@@ -4,13 +4,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #e0e7ff; /* Background color */
+    background-color: #f9f3f6; /* Background color */
 }
 
 .container {
     text-align: center;
     padding: 30px;
-    background-color: #ffffff; /* Background color for container */
+    background-color: #f1cdde; /* Background color for container */
     border-radius: 15px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     width: 90%;
